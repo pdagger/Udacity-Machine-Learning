@@ -45,4 +45,4 @@ pip install -r Requirements/requirements.txt
 ```
 ### Data Wrangling:
 
-After download, process the data set using the file [Salary_prediction.ipynb](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Salary_prediction.ipynb) present in this directory.
+After download, process the data set using the file [data_wrangling.ipynb](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/data_wrangling.ipynb) present in the [Data](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/) folder.
