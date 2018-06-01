@@ -20,6 +20,12 @@ by linear regression or random forest regression.
 ### Data set
 The data for this project can be downloaded from [here](https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2017/H-1B_Disclosure_Data_FY17.xlsx).
 
+### Initial Data Exploration
+Data exploration can be found in the file [Data_visualization.ipynb](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/Data_visualization.ipynb) located in the [Data](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/) folder.
+
+### Data Wrangling:
+After download, process the data set using the file [data_wrangling.ipynb](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/data_wrangling.ipynb) present in the [Data](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/) folder. This creates the clean data set used for the project.
+
 ### Working environment
 To process the data set and run the project create a new environment in your local machine using the files in the [Requirements](https://github.com/pdagger/Udacity-Machine-Learning/tree/master/Capstone_project/Requirements) folder:
 
@@ -43,6 +49,3 @@ conda create --name h1b python=3
 activate h1b
 pip install -r Requirements/requirements.txt
 ```
-### Data Wrangling:
-
-After download, process the data set using the file [data_wrangling.ipynb](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/data_wrangling.ipynb) present in the [Data](https://github.com/pdagger/Udacity-Machine-Learning/blob/master/Capstone_project/Data/) folder. This creates the clean data set used for the project.
